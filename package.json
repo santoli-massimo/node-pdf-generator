@@ -1,0 +1,17 @@
+{
+  "name": "node-pdf-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pdf-generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "handlebars": "^4.0.5",
+    "path": "^0.12.7",
+    "phantom": "^2.1.14",
+    "phantomjs": "^2.1.7"
+  }
+}
